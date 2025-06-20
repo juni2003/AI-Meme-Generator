@@ -1,0 +1,59 @@
+Folder PATH listing
+Volume serial number is 02AE-E5DF
+C:.
+³   requirements.txt
+³   training.py
+³   __init__.py
+³   
+ÃÄÄÄapp
+³   ³   gui.py
+³   ³   main.py
+³   ³   __init__.py
+³   ³   
+³   ÀÄÄÄ__pycache__
+³           cli.cpython-312.pyc
+³           gui.cpython-312.pyc
+³           main.cpython-312.pyc
+³           __init__.cpython-312.pyc
+³           
+ÃÄÄÄcore
+³   ³   data_loader.py
+³   ³   matcher.py
+³   ³   matcher.py.bak_20250518_002809
+³   ³   matcher.py.bak_20250518_003227
+³   ³   preprocessor.py
+³   ³   __init__.py
+³   ³   
+³   ÀÄÄÄ__pycache__
+³           analyzer.cpython-312.pyc
+³           generator.cpython-312.pyc
+³           matcher.cpython-312.pyc
+³           preprocessor.cpython-312.pyc
+³           __init__.cpython-312.pyc
+³           
+ÃÄÄÄdata
+³       labels.csv
+³       
+ÃÄÄÄimages
+³       image_1.jpg
+..........
+..........
+³       image_1000.png
+³       image_1001.png
+³       image_1002.png
+......
+......
+......
+³       image_5296.jpg
+
+ÃÄÄÄmodels
+³       best_classifier.pkl
+³       similarity_models.pkl
+³       
+ÀÄÄÄutils
+    ³   data_loader.py
+    ³   image_utils.py
+    ³   
+    ÀÄÄÄ__pycache__
+            data_loader.cpython-312.pyc
+            

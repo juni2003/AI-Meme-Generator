@@ -1,0 +1,12 @@
+# Ignore datasets and image files
+images/
+
+# Ignore model files if you don't want to share them
+models/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore backup or temp files
+*.bak_*
