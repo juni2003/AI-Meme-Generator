@@ -2,7 +2,7 @@
 
 An intelligent, offline, GUI-based Meme Generator that uses Natural Language Processing to recommend the most contextually relevant memes based on user input, and lets you personalize them with editing tools — all powered by TF-IDF and cosine similarity.
 
-![Project Demo](demo_screenshot.png)
+
 
 ---
 
@@ -70,7 +70,7 @@ The AI Meme Generator enables users to input a topic, phrase, or punchline and a
 4. **Image Editor**: Allows cropping, caption removal, overlaying, and adding new text.
 5. **GUI (Tkinter)**: Provides an intuitive interface for interaction.
 
-![Architecture](architecture_diagram.png) *(Optional)*
+
 
 ---
 
