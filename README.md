@@ -76,14 +76,14 @@ The AI Meme Generator enables users to input a topic, phrase, or punchline and a
 
 ## 📁 Dataset
 
-The system uses the **[6,992 Labeled Meme Images Dataset from Kaggle](https://www.kaggle.com/datasets/surajkum1198/memes-dataset)** which contains real-world memes with existing captions. These captions are used to find semantically relevant matches.
+The system uses the **[6,992 Labeled Meme Images Dataset from Kaggle](https://www.kaggle.com/datasets/hammadjavaid/6992-labeled-meme-images-dataset)** which contains real-world memes with existing captions. These captions are used to find semantically relevant matches.
 
 You must download and place the dataset manually.
 
 ### 📥 Download Instructions
 
 1. Download the dataset from Kaggle:  
-   https://www.kaggle.com/datasets/surajkum1198/memes-dataset
+   https://www.kaggle.com/datasets/hammadjavaid/6992-labeled-meme-images-dataset
 2. Extract it and rename the folder to `images`
 3. Place the `images` folder inside the root of the cloned project repository.
 
