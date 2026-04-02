@@ -2,8 +2,6 @@
 
 An intelligent, offline, GUI-based Meme Generator that uses Natural Language Processing to recommend the most contextually relevant memes based on user input, and lets you personalize them with editing tools — all powered by TF-IDF and cosine similarity.
 
-
-
 ---
 
 ## 📌 Table of Contents
