@@ -174,6 +174,7 @@ Achieved **99.21% Top-5 accuracy**, indicating high semantic match quality.
 
 ---
 
+
 ## ⚠️ Limitations
 
 - Only **text-based similarity** is used — no image content matching.
