@@ -181,7 +181,6 @@ Achieved **99.21% Top-5 accuracy**, indicating high semantic match quality.
 - The dataset contains **pre-captioned** memes, not clean templates.
 - Very short user inputs may lead to low-quality vector representations.
 - Deep learning models like BERT were avoided to maintain simplicity and offline capability.
-
 ---
 
 ## 🛠️ Tech Stack
